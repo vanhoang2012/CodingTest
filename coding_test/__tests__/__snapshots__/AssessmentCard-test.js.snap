@@ -1,0 +1,268 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "borderRadius": 16,
+      "elevation": 2,
+      "flexDirection": "row",
+      "marginHorizontal": 8,
+      "marginVertical": 26.285714285714285,
+      "padding": 32,
+      "shadowColor": undefined,
+      "shadowOffset": Object {
+        "height": 1.6428571428571428,
+        "width": 1.6428571428571428,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 4,
+      "width": 540,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "https://w7.pngwing.com/pngs/64/886/png-transparent-human-hand-and-pink-heart-illustration-health-care-medicine-computer-icons-hospital-icon-love-purple-text-thumbnail.png",
+      }
+    }
+    style={
+      Object {
+        "height": 180,
+        "width": 100,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "space-between",
+        "paddingLeft": 32,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "#2a2a2a",
+            "fontSize": 28,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Advanced Health Screening
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#7f7f7f",
+            "fontSize": 24,
+            "fontWeight": "normal",
+            "marginTop": 9.857142857142858,
+          }
+        }
+      >
+        3 days left
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#7f7f7f",
+              "fontSize": 24,
+              "fontWeight": "normal",
+            }
+          }
+        >
+          Earn up to
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#04577F",
+              "fontSize": 28,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          9999
+           
+          <Text
+            style={
+              Object {
+                "color": "#7f7f7f",
+                "fontSize": 24,
+                "fontWeight": "normal",
+              }
+            }
+          >
+            pts
+          </Text>
+        </Text>
+      </View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../src/assets/images/right-arrows.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "tintColor": "#B71743",
+            "width": 40,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders correctly 2 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "borderRadius": 16,
+      "elevation": 2,
+      "flexDirection": "row",
+      "marginHorizontal": 8,
+      "marginVertical": 26.285714285714285,
+      "padding": 32,
+      "shadowColor": undefined,
+      "shadowOffset": Object {
+        "height": 1.6428571428571428,
+        "width": 1.6428571428571428,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 4,
+      "width": 540,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "https://w7.pngwing.com/pngs/64/886/png-transparent-human-hand-and-pink-heart-illustration-health-care-medicine-computer-icons-hospital-icon-love-purple-text-thumbnail.png",
+      }
+    }
+    style={
+      Object {
+        "height": 180,
+        "width": 100,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "space-between",
+        "paddingLeft": 32,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "#2a2a2a",
+            "fontSize": 28,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Advanced Health Screening
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#7f7f7f",
+            "fontSize": 24,
+            "fontWeight": "normal",
+            "marginTop": 9.857142857142858,
+          }
+        }
+      >
+        3 days left
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "#7f7f7f",
+              "fontSize": 24,
+              "fontWeight": "normal",
+            }
+          }
+        >
+          Earn up to
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "#04577F",
+              "fontSize": 28,
+              "fontWeight": "bold",
+            }
+          }
+        >
+           
+          <Text
+            style={
+              Object {
+                "color": "#7f7f7f",
+                "fontSize": 24,
+                "fontWeight": "normal",
+              }
+            }
+          >
+            pts
+          </Text>
+        </Text>
+      </View>
+      <Image
+        source={
+          Object {
+            "testUri": "../../../src/assets/images/right-arrows.png",
+          }
+        }
+        style={
+          Object {
+            "height": 40,
+            "tintColor": "#B71743",
+            "width": 40,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
