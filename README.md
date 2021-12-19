@@ -1,4 +1,5 @@
 # CodingTest
 
-#UserName: VanHoang
-#Password: 123456
+UserName: VanHoang
+
+Password: 123456
